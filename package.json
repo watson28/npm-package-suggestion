@@ -1,5 +1,5 @@
 {
-  "name": "npm-package-suggest",
+  "name": "npm-package-suggestion",
   "version": "1.0.0",
   "description": "api to get suggestion of NPM package when the one you want is taken",
   "main": "index.js",
